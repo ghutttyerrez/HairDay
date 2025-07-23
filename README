@@ -1,12 +1,10 @@
-<h1 style="color: #e8c619ff">
-💇‍♀️ HairDay
-</h1>
+# 💇‍♀️ HairDay
 
 Projeto desenvolvido durante os estudos com a plataforma [Rocketseat](https://www.rocketseat.com.br/), com o objetivo de aplicar na prática a criação de uma aplicação completa com front-end e back-end integrados.
 
 ---
 
-<h2 style="color: #e8c619ff">📸 Preview </h2>
+## 📸 Preview
 
 ![HairDay Preview](preview.png)
 
@@ -14,7 +12,7 @@ Projeto desenvolvido durante os estudos com a plataforma [Rocketseat](https://ww
 
 ---
 
-<h2 style="color: #e8c619ff"> 📌 Visão Geral</h2>
+## 📌 Visão Geral
 
 O **HairDay** é uma aplicação web desenvolvida como primeiro projeto fullstack, com integração total entre o front-end e uma API feita do zero.
 
@@ -28,28 +26,28 @@ Este projeto me proporcionou a experiência prática com conceitos fundamentais 
 
 ---
 
-<h2 style="color: #e8c619ff">🧰 Tecnologias Utilizadas</h2>
+## 🧰 Tecnologias Utilizadas
 
-<h3 style="color: #7319e8ff">🔹 Front-end</h3>
+### 🔹 Front-end
 
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
 
-<h3 style="color: #7319e8ff">🔹 Back-end</h3>
+### 🔹 Back-end
 
 - **Node.js**
 - **Express**
 - **NPM** (gerenciador de pacotes)
 
-<h3 style="color: #7319e8ff">🔹 Ferramentas de Build</h3>
+### 🔹 Ferramentas de Build
 
 - **Webpack** – para realizar o bundling e servir localmente
 - **Babel** – para compatibilidade com navegadores mais antigos
 
 ---
 
-<h2 style="color: #e8c619ff">🚀 Funcionalidades</h2>
+## 🚀 Funcionalidades
 
 - Interface responsiva com horários disponíveis para agendamento
 - Integração com uma API local para gerenciamento de dados
@@ -58,7 +56,7 @@ Este projeto me proporcionou a experiência prática com conceitos fundamentais 
 
 ---
 
-<h2 style="color: #e8c619ff">📁 Estrutura do Projeto</h2>
+## 📁 Estrutura do Projeto
 
 HairDay/
 ├── public/
@@ -77,29 +75,30 @@ HairDay/
 
 ---
 
-<h2 style="color: #e8c619ff">🛠️ Como rodar o projeto localmente</h2>
+## 🛠️ Como rodar o projeto localmente
 
-<h3 style="color: #7319e8ff">Pré-requisitos</h3>
+### Pré-requisitos
 
 - Node.js e NPM instalados
 - Git instalado
 
- <h2 style="color: #e8c619ff">Passo a passo</h2>
+### Passo a passo
+
 bash
 
-## Clone o repositório
+# Clone o repositório
 
 git clone https://github.com/ghutttyerrez/HairDay
 
-## Acesse o diretório
+# Acesse o diretório
 
 cd HairDay
 
-## Instale as dependências
+# Instale as dependências
 
 npm install
 
-## Inicie o servidor de desenvolvimento com Webpack
+# Inicie o servidor de desenvolvimento com Webpack
 
 npm run dev
 A aplicação estará disponível em: http://localhost:8080
