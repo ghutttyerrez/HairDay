@@ -1,0 +1,122 @@
+# 💇‍♀️ HairDay
+
+Projeto desenvolvido durante os estudos com a plataforma [Rocketseat](https://www.rocketseat.com.br/), com o objetivo de aplicar na prática a criação de uma aplicação completa com front-end e back-end integrados.
+
+---
+
+## 📸 Preview
+
+![HairDay Preview](./public/preview.png)
+
+> _Interface do projeto HairDay com horários de agendamento disponíveis._
+
+---
+
+## 📌 Visão Geral
+
+O **HairDay** é uma aplicação web desenvolvida como primeiro projeto fullstack, com integração total entre o front-end e uma API feita do zero.
+
+Este projeto me proporcionou a experiência prática com conceitos fundamentais do desenvolvimento web moderno, como:
+
+- Consumo de APIs
+- Organização modular de código
+- Bundling com Webpack
+- Transpilação com Babel
+- Versionamento com Git e GitHub
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+### 🔹 Front-end
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+
+### 🔹 Back-end
+
+- **Node.js**
+- **Express**
+- **NPM** (gerenciador de pacotes)
+
+### 🔹 Ferramentas de Build
+
+- **Webpack** – para realizar o bundling e servir localmente
+- **Babel** – para compatibilidade com navegadores mais antigos
+
+---
+
+## 🚀 Funcionalidades
+
+- Interface responsiva com horários disponíveis para agendamento
+- Integração com uma API local para gerenciamento de dados
+- Atualizações dinâmicas via JavaScript
+- Build otimizada para desenvolvimento local
+
+---
+
+## 📁 Estrutura do Projeto
+
+HairDay/
+├── public/
+│ └── preview.png
+├── src/
+│ ├── assets/
+│ ├── pages/
+│ ├── scripts/
+│ └── styles/
+├── server/
+│ └── api.js
+├── webpack.config.js
+├── .babelrc
+├── package.json
+└── README.md
+
+---
+
+## 🛠️ Como rodar o projeto localmente
+
+### Pré-requisitos
+
+- Node.js e NPM instalados
+- Git instalado
+
+### Passo a passo
+
+bash
+
+# Clone o repositório
+
+git clone https://github.com/ghutttyerrez/HairDay
+
+# Acesse o diretório
+
+cd HairDay
+
+# Instale as dependências
+
+npm install
+
+# Inicie o servidor de desenvolvimento com Webpack
+
+npm run dev
+A aplicação estará disponível em: http://localhost:8080
+
+###
+
+🔄 Aprendizados
+Durante o desenvolvimento, aprofundei meus conhecimentos em:
+
+Estruturação de projetos front-end e back-end
+
+Integração de API com fetch
+
+Uso de ferramentas modernas como Webpack e Babel
+
+Versionamento de código com Git e GitHub
+
+Modularização e boas práticas de organização de código
+
+📢 Créditos
+Este projeto foi desenvolvido com base no conteúdo da Rocketseat, como parte do processo de aprendizado contínuo em desenvolvimento web.
